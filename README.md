@@ -36,7 +36,7 @@
 
     A simple and responsive analog clock built with CSS and ~10 lines of VanillaJS.
 
--   ### [Random Color Genarator](https://github.com/zivkaplan/CSS-clock)
+-   ### [Random Color Genarator](https://github.com/zivkaplan/Random-color-genarator)
 
     A simple webpage to generate random colors, match, copy and enjoy!
 
