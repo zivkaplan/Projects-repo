@@ -1,10 +1,8 @@
 
-## 🪑 My Projects:
-
-<br/>
+# 🪑 My Projects:
 
 <!-- PROJECTS:START -->
-### 🌐 JS
+## 🌐 JS
 
 -   ### [Yelp-Camp](https://github.com/zivkaplan/YelpCamp)
 
@@ -12,7 +10,7 @@
 
 -   ### [Spotify Now](https://github.com/zivkaplan/SpotifyNow)
 
-    Log in to your Spotify account, search for music and display your library. a PWA (Progressive Web App) Build with: VanillaJS, NodeJs(Express, Axios), MongoDB.
+    Log in to your Spotify account, search for music and display your library. a PWA (Progressive Web App) Build with: VanillaJS, NodeJs (Express, Axios), MongoDB.
 
 -   ### [Book library](https://github.com/zivkaplan/Book-library)
 
@@ -26,12 +24,26 @@
     
     A responsive table calculator webpage built with Vanilla JS.
 
+
+-   ### [Simon game](https://github.com/zivkaplan/Simon-game)
+    
+    Play the classic memory game online! Built with VanillaJS using promises. 
+
+
+-   ### [Tic Tac Toe](https://github.com/zivkaplan/Tic-Tac-Toe)
+    
+    Play the well-known game with your friend. Built with VanillaJS.
+
 -   ### [CSS Clock](https://github.com/zivkaplan/CSS-clock)
     
     A simple and responsive analog clock built with CSS and ~10 lines of VanillaJS.
 
 
-### 🐍 Python 
+-   ### [Etch a Sketch](https://github.com/zivkaplan/Etch-a-Sketch)
+    
+    Set your grid, pick a color and hover over the squares to draw! Built with VanillaJS.
+
+## 🐍 Python 
 
 -   ### [Python Hexapawn AI](https://github.com/zivkaplan/Hexapawn-python)
 
