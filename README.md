@@ -4,6 +4,10 @@
 
 ## 🌐 JS
 
+-   ### [Sudoku Solver](https://github.com/zivkaplan/Sudoku-Solver)
+
+    A front-end application that a user can input his unsolved sudoku puzzle and get the a solved board.
+
 -   ### [Yelp-Camp](https://github.com/zivkaplan/YelpCamp)
 
     A Yelp-like site for camp sites. Build with: NodeJS (Express, ejs, Passport) MongoDB, Bootstrap ,Mapbox & Cloudinary API's
@@ -54,4 +58,8 @@
 
     a console game of Hangman written in Python.
 
-<!-- PROJECTS:END -->
+-   ### [ML - Handwritten Digit Recognition model](https://github.com/zivkaplan/Handwritten-Digit-Recognition-ML)
+
+        A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
+
+    <!-- PROJECTS:END -->
