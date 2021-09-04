@@ -60,6 +60,6 @@
 
 -   ### [ML - Handwritten Digit Recognition model](https://github.com/zivkaplan/Handwritten-Digit-Recognition-ML)
 
-        A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
+    A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
 
     <!-- PROJECTS:END -->
