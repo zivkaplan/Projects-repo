@@ -66,4 +66,10 @@
 
     A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
 
+### 🇨 C Language
+
+- ### [Data Structures in C](https://github.com/zivkaplan/C-data-structures)
+
+    Usable implementations of common data structures written in C.
+
     <!-- PROJECTS:END -->
